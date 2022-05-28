@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 
 <head>
@@ -85,8 +85,7 @@ TWITTER</TH><TH><FONT COLOR="YELLOW">SNAPCHAT</FONT></TH>
 <CENTER>
 <FONT COLOR = "GREEN"><H1>THANK YOU FOR GIVING
  YOUR PRECIOUS TIME</H1>
-</CENTER>
-</PRE>
+
 <HR><HR>
 </body>
 
