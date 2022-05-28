@@ -2,8 +2,8 @@
 <html>
 
 <head>
-<meta charset="UTF-8">
-<meta http-equiv-"X-UA-Compatible" content="IE-edge" />
+<meta charset="UTF-8"/>
+<meta http-equiv-"X-UA-Compatible" content="IE-edge"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
 <title>
@@ -13,7 +13,7 @@ Shivani Chavan
 </head>
 
 
-<body BGCOLOR = "skyblue">
+<body BGCOLOR = "sky blue">
 
 
 <H2><MARQUEE BGCOLOR = "Yellow"> WELCOME ON OFFICIAL SITE OF SHIVANI CHAVAN'S SOCIAL MEDIA LINK BY ROHIT CHAVAN. </MARQUEE></H2>
