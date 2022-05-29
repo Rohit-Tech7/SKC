@@ -1,9 +1,8 @@
-<!DOCTYPE html>
+
 <html>
 
 <head>
 <meta charset="UTF-8"/>
-<meta http-equiv-"X-UA-Compatible" content="IE-edge"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
 <title>
@@ -20,15 +19,15 @@ Shivani Chavan
  <h1><CENTER><FONT COLOR = "RED">SHIVANI KAMLAKAR CHAVAN </CENTER></h1>
 
 
-<P><h3><CENTER><FONT COLOR = "black">Following table indicates the various platform and respective link of Shivani's account.</CENTER></h3></P>
+<P><h4><CENTER><FONT COLOR = "black">Following table indicates the various platform and respective link of Shivani's account.</CENTER> </h4> </P>
 <CENTER>
 <TABLE BORDER ='5' WIDTH="600 HIGHT="300" CELLPADDING="20 "CELLPACING="20">
 <TR>
-<TH COLSPAN=7 BGCOLOR = "navy"><H2><FONT COLOR="GREY">CONNECT WITH <FONT COLOR="RED">'Shivani'</FONT> ON VARIOUS PLATFORM</FONT></H2></th>
+<TH COLSPAN=7 BGCOLOR = "navy"> <H2> <FONT COLOR="GREY">CONNECT WITH <FONT COLOR="RED">'Shivani'</FONT> ON VARIOUS PLATFORM</FONT></H2></th>
 </TR>
 
-<TR BGCOLOR = "green"><FONT COLOR="YELLOW">
-<TH><FONT COLOR="YELLOW"><h5>YOUTUBE</h5></FONT></TH><TH><FONT COLOR="YELLOW">JOSH APP</TH><TH><FONT COLOR="YELLOW">FACEBOOK</TH><TH><FONT COLOR="YELLOW">INSTAGRAM</TH><TH><FONT COLOR="YELLOW">
+<TR BGCOLOR = "green"> <FONT COLOR="YELLOW">
+<TH> <FONT COLOR="YELLOW"><h5>YOUTUBE</h5></FONT></TH><TH><FONT COLOR="YELLOW">JOSH APP</TH><TH><FONT COLOR="YELLOW">FACEBOOK</TH><TH><FONT COLOR="YELLOW">INSTAGRAM</TH><TH><FONT COLOR="YELLOW">
 TWITTER</TH><TH><FONT COLOR="YELLOW">SNAPCHAT</FONT></TH>
 </TR>
 <TR><https://www.youtube.com/channel/UCG51GH13DEleTtOsNwYlJdw>
@@ -55,7 +54,7 @@ TWITTER</TH><TH><FONT COLOR="YELLOW">SNAPCHAT</FONT></TH>
 <FORM METHOD="POST" ACTION="mailto:rpchavan188@gmail.com" ENCTYPE="TEXTPLAIN">
 
 <H2><B><FONT COLOR="BLACK">"Please provide the given Information:"<B></H2>
- 1.Enter Your Name:<INPUT TYPE="text" name="urname" size=25 MAXLENGTH="30">
+<H2> 1.Enter Your Name: </H2> <INPUT TYPE="text" name="urname" size=25 MAXLENGTH="30">
 <BR><br>
 2.Enter Your Email ID:<INPUT TYPE= "text" NAME="age" size=25 maxlength="30">
 <br><br>
