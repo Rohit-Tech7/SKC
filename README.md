@@ -20,16 +20,14 @@ Shivani Chavan
 
 
 <P><h4><CENTER><FONT COLOR = "black">Following table indicates the various platform and respective link of Shivani's account.
-<CENTER>
-<table>
-<TR>
+
 <TH COLSPAN=7 BGCOLOR = "navy"> <H2> <FONT COLOR="GREY">CONNECT WITH <FONT COLOR="RED">'Shivani'</FONT> ON VARIOUS PLATFORM</FONT></H2></th>
 </TR>
 
 <TR BGCOLOR = "GREEN"> <FONT COLOR="YELLOW">
 <TH> <FONT COLOR="YELLOW"><h5>YOUTUBE</h5></FONT></TH> <TH> <FONT COLOR="YELLOW">JOSH APP
-<TH> <FONT COLOR="YELLOW">FACEBOOK </TH> <TH><FONT COLOR="YELLOW">INSTAGRAM</TH><TH><FONT COLOR="YELLOW">
-TWITTER</TH><TH><FONT COLOR="YELLOW">SNAPCHAT</FONT></TH>
+<TH> <FONT COLOR="YELLOW">FACEBOOK <TH><FONT COLOR="YELLOW">INSTAGRAM <TH><FONT COLOR="YELLOW">
+TWITTER<TH><FONT COLOR="YELLOW">SNAPCHAT</FONT>
 </TR>
 <TR>
 <TD BGCOLOR = "ORANGE"><A HREF = "https://www.youtube.com/channel/UCG51GH13DEIeTtOsNwYlJdw/videos"> SHIVANI'S YOUTUBE</A></TD>
@@ -75,13 +73,11 @@ TWITTER</TH><TH><FONT COLOR="YELLOW">SNAPCHAT</FONT></TH>
 </P<pre>
 <H5><b><pre>Your personal website will be ready in 2 Days
         and it will be send on email.
-        Free Free Free, 100% Secure :)</pre></H5></b>
-</pre>
-</CENTER>
+        Free Free Free, 100% Secure :)
 
-</FORM>
+
 <HR><HR>
-<PRE>
+
 <CENTER>
 <FONT COLOR = "GREEN"><H1>THANK YOU FOR GIVING
  YOUR PRECIOUS TIME</H1>
