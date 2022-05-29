@@ -19,7 +19,7 @@ Shivani Chavan
  <h1><CENTER><FONT COLOR = "RED">SHIVANI KAMLAKAR CHAVAN 
 
 
-<P><h4><CENTER><FONT COLOR = "black">Following table indicates the various platform and respective link of Shivani's account.</CENTER> </h4> </P>
+<P><h4><CENTER><FONT COLOR = "black">Following table indicates the various platform and respective link of Shivani's account.
 <CENTER>
 <table>
 <TR>
@@ -69,7 +69,7 @@ TWITTER</TH><TH><FONT COLOR="YELLOW">SNAPCHAT</FONT></TH>
 <br><BR>
 4.Your Social Media Links:
 <br>
-<TEXTAREA NAME="comments" ROWS="6" COLS="60" WRAP>
+<TEXTAREA NAME="comments" ROWS="3" COLS="30" WRAP>
 </TEXTAREA>
 <P><INPUT TYPE="Submit" VALUE="SUBMIT RESPONSE">
 </P<pre>
