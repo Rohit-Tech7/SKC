@@ -18,8 +18,8 @@ Shivani Chavan
 <H2><MARQUEE BGCOLOR = "Yellow"> WELCOME ON OFFICIAL SITE OF SHIVANI CHAVAN'S SOCIAL MEDIA MANAGEMENT SITE. </MARQUEE></H2>
  <h1><CENTER><FONT COLOR = "RED">SHIVANI KAMLAKAR CHAVAN 
 
-<h4><FONT COLOR="black">Developer: Rohit Chavan
-<A HREF=" https://rohit-tech7.github.io/rohitinsocial/">Click here to connect</A></h4>
+<h5><FONT COLOR="black">Developer: Rohit Chavan
+<A HREF=" https://rohit-tech7.github.io/rohitinsocial/">Click here to connect</A></h5>
 
 
 <Center><H3><FONT COLOR = "black">Following table indicates the various platform and respective link of Shivani's account.
@@ -32,7 +32,7 @@ Shivani Chavan
 <TH> <FONT COLOR="YELLOW"><h5>YOUTUBE</h5></FONT></TH> <TH> <FONT COLOR="YELLOW">JOSH APP
 <TH> <FONT COLOR="YELLOW">FACEBOOK <TH><FONT COLOR="YELLOW">INSTAGRAM <TH><FONT COLOR="YELLOW">
 TWITTER<TH><FONT COLOR="YELLOW">SNAPCHAT</FONT>
-</TR>
+
 <TR>
 <TD BGCOLOR = "ORANGE"><A HREF = "https://www.youtube.com/channel/UCG51GH13DEIeTtOsNwYlJdw/videos"> SHIVANI'S YOUTUBE</A></TD>
 <TD BGCOLOR = "ORANGE"><A HREF = "https://share.myjosh.in/profile/9c4cd9be-5bf9-436b-afa7-e5dbcd9e074e?u=0x2c0b6441d4a6ff9c">SHIVANI ON JOSH</a></TD>
