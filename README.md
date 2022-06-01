@@ -18,9 +18,8 @@ Shivani Chavan
 <H2><MARQUEE BGCOLOR = "Yellow"> WELCOME ON OFFICIAL SITE OF SHIVANI CHAVAN'S SOCIAL MEDIA MANAGEMENT SITE. </MARQUEE></H2>
  <h1><CENTER><FONT COLOR = "RED">SHIVANI KAMLAKAR CHAVAN 
 
-
-<P><h4><CENTER><FONT COLOR = "black">Following table indicates the various platform and respective link of Shivani's account.
-<Table>
+<Center><H3><FONT COLOR = "black">Following table indicates the various platform and respective link of Shivani's account.</H3></Center>
+<Table BORDER="5" WIDTH="800" HEIGHT="250">
 <TR>
 <TH COLSPAN=7 BGCOLOR = "navy"> <H2> <FONT COLOR="GREY">CONNECT WITH <FONT COLOR="RED">'Shivani'</FONT> ON VARIOUS PLATFORM</FONT></H2></th>
 </TR>
@@ -42,19 +41,13 @@ TWITTER<TH><FONT COLOR="YELLOW">SNAPCHAT</FONT>
 </CENTER>
 <PRE>
 <h4><FONT COLOR="black">Founder/Developer: Rohit Chavan
-<A HREF=" https://rohit-tech7.github.io/rohitinsocial/">Click here to Follow Rohit</A></h4>
+<A HREF=" https://rohit-tech7.github.io/rohitinsocial/">Click here to connect</A></h4>
 </PRE>
-<HR>
-
-
-
-
-<HR>
-<Pre>
+<HR><HR>
 <FONT COLOR = "GREEN"><H1>THANK YOU FOR 
 VISITING MY 
 SITE ~ <b>SHIVANI</b></H1>
-</Pre>
+
 <HR><HR>
 </body>
 
