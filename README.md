@@ -25,7 +25,7 @@ Shivani Chavan
 <TH COLSPAN=7 BGCOLOR = "navy"> <H2> <FONT COLOR="GREY">CONNECT WITH <FONT COLOR="RED">'Shivani'</FONT> ON VARIOUS PLATFORM</FONT></H2></th>
 </TR>
 
-<TR BGCOLOR = "GREEN"> <FONT COLOR="YELLOW">
+<TR BGCOLOR = "green"> <FONT COLOR="YELLOW">
 <TH> <FONT COLOR="YELLOW"><h5>YOUTUBE</h5></FONT></TH> <TH> <FONT COLOR="YELLOW">JOSH APP
 <TH> <FONT COLOR="YELLOW">FACEBOOK <TH><FONT COLOR="YELLOW">INSTAGRAM <TH><FONT COLOR="YELLOW">
 TWITTER<TH><FONT COLOR="YELLOW">SNAPCHAT</FONT>
@@ -44,45 +44,17 @@ TWITTER<TH><FONT COLOR="YELLOW">SNAPCHAT</FONT>
 <h4><FONT COLOR="black">Founder/Developer: Rohit Chavan
 <A HREF=" https://rohit-tech7.github.io/rohitinsocial/">Click here to Follow Rohit</A></h4>
 </PRE>
-<HR BGCOLOR="RED">
+<HR>
 
 
 
 
 <HR>
-<CENTER>
-<FORM METHOD="POST" ACTION="mailto:rpchavan188@gmail.com" ENCTYPE="TEXTPLAIN">
-
-<H2><B><FONT COLOR="BLACK">"Please provide the given Information:"<B></H2>
-<H6> 1.Enter Your Name: </H6> <INPUT TYPE="text" name="urname" size=25 MAXLENGTH="30">
-<BR><br>
-<H6>2.Enter Your Email </H6> <INPUT TYPE= "text" NAME="age" size=25 maxlength="30">
-<br><br>
-<H6>3.How will you rate this Website?</H6>
-<BR>
-<INPUT TYPE="radio" NAME="rate" VALUE="Superb" CHECKED>Superb 
-<INPUT TYPE="radio" NAME="rate" VALUE="Very Good"> Very Good
-<INPUT TYPE="radio" NAME="rate" VALUE="Good"> Good
-<INPUT TYPE="radio" NAME="rate" VALUE="Average"> Average
-
-<br><BR>
-4.Your Social Media Links:
-<br>
-<TEXTAREA NAME="comments" ROWS="3" COLS="30" WRAP>
-</TEXTAREA>
-<P><INPUT TYPE="Submit" VALUE="SUBMIT RESPONSE">
-</P<pre>
-<H5><b><pre>Your personal website will be ready in 2 Days
-        and it will be send on email.
-        Free Free Free, 100% Secure :)
-
-
-<HR><HR>
-
-<CENTER>
-<FONT COLOR = "GREEN"><H1>THANK YOU FOR GIVING
- YOUR PRECIOUS TIME</H1>
-
+<Pre>
+<FONT COLOR = "GREEN"><H1>THANK YOU FOR 
+VISITING MY 
+SITE ~ <b>SHIVANI</b></H1>
+</Pre>
 <HR><HR>
 </body>
 
