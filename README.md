@@ -3,6 +3,7 @@
 
 <head>
 <meta charset="UTF-8"/>
+<meta http-equiv-"X-UA-Compatible" content="IE-edge" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
 <title>
@@ -22,7 +23,8 @@ Shivani Chavan
 <A HREF=" https://rohit-tech7.github.io/rohitinsocial/">Click here to connect</A>
 
 
-<Center><H4><FONT COLOR = "black">Following table indicates the various platform and respective link of Shivani's account.</H4>
+<Center><H4><FONT COLOR = "black">Following table indicates the various platform and respective link of Shivani's account.
+</H4>
 <Table BORDER="5">
 <TR>
 <TH COLSPAN=7 BGCOLOR = "navy"> <H2> <FONT COLOR="GREY">CONNECT WITH <FONT COLOR="RED">'Shivani'</FONT> ON VARIOUS PLATFORM</FONT></H2></th>
