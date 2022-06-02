@@ -24,7 +24,7 @@ Shivani Chavan
 
 <H4><FONT COLOR = "black">Following table indicates the various platform and respective link of Shivani's account.
 
-<Table>
+<Table>.
 <TR>
 <TH COLSPAN=7 BGCOLOR = "navy"> <H2> <FONT COLOR="GREY">CONNECT WITH <FONT COLOR="RED">'Shivani'</FONT> ON VARIOUS PLATFORM</FONT></H2></th>
 </TR>
