@@ -3,7 +3,7 @@
 
 <head>
 <meta charset="UTF-8"/>
-<meta http-equiv-"X-UA-Compatible" content="IE-edge" />
+
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
 <title>
@@ -13,7 +13,7 @@ Shivani Chavan
 </head>
 
 
-<body BGCOLOR = "sky blue">
+<body>
 
 
 <H2><MARQUEE BGCOLOR = "Yellow"> WELCOME ON OFFICIAL SITE OF SHIVANI CHAVAN'S SOCIAL MEDIA MANAGEMENT SITE. </MARQUEE></H2>
@@ -24,16 +24,16 @@ Shivani Chavan
 
 
 <Center><H4><FONT COLOR = "black">Following table indicates the various platform and respective link of Shivani's account.
-</H4>
-<Table BORDER="5">
+
+<Table BORDER="3" HEIGHT = "250" WIDTH ="900">
 <TR>
 <TH COLSPAN=7 BGCOLOR = "navy"> <H2> <FONT COLOR="GREY">CONNECT WITH <FONT COLOR="RED">'Shivani'</FONT> ON VARIOUS PLATFORM</FONT></H2></th>
 </TR>
 
-<TR BGCOLOR = "green"> <FONT COLOR="YELLOW">
-<TH> <FONT COLOR="YELLOW"><h5>YOUTUBE</h5></FONT></TH> <TH> <FONT COLOR="YELLOW">JOSH APP
-<TH> <FONT COLOR="YELLOW">FACEBOOK <TH><FONT COLOR="YELLOW">INSTAGRAM <TH><FONT COLOR="YELLOW">
-TWITTER<TH><FONT COLOR="YELLOW">SNAPCHAT</FONT>
+<TR BGCOLOR = "YELLOW"> <FONT COLOR="YELLOW">
+<TH> <FONT COLOR="GREEN"><h5>YOUTUBE</h5></FONT></TH> <TH> <FONT COLOR="GREEN">JOSH APP
+<TH> <FONT COLOR="GREEN">FACEBOOK <TH><FONT COLOR="GREEN">INSTAGRAM <TH><FONT COLOR="GREEN">
+TWITTER<TH><FONT COLOR="GREEN">SNAPCHAT</FONT>
 
 <TR>
 <TD BGCOLOR = "ORANGE"><A HREF = "https://www.youtube.com/channel/UCG51GH13DEIeTtOsNwYlJdw/videos"> SHIVANI'S YOUTUBE</A></TD>
