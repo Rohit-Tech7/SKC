@@ -20,7 +20,7 @@ Shivani Chavan
 
 <H2><MARQUEE BGCOLOR = "Yellow"> WELCOME ON OFFICIAL SITE OF SHIVANI CHAVAN'S SOCIAL MEDIA MANAGEMENT SITE. </MARQUEE></H2>
  <h1><CENTER><FONT COLOR = "RED">SHIVANI KAMLAKAR CHAVAN 
-
+<HR>
 
 <H4><FONT COLOR = "black">Following table indicates the various platform and respective link of Shivani's account.
 
