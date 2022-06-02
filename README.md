@@ -19,21 +19,18 @@ Shivani Chavan
 <H2><MARQUEE BGCOLOR = "Yellow"> WELCOME ON OFFICIAL SITE OF SHIVANI CHAVAN'S SOCIAL MEDIA MANAGEMENT SITE. </MARQUEE></H2>
  <h1><CENTER><FONT COLOR = "RED">SHIVANI KAMLAKAR CHAVAN 
 
-<FONT COLOR="black"><H5>Developer: Rohit Chavan
-<A HREF=" https://rohit-tech7.github.io/rohitinsocial/">Click here to connect</A>
 
-
-<Center><H4><FONT COLOR = "black">Following table indicates the various platform and respective link of Shivani's account.
+<H4><FONT COLOR = "black">Following table indicates the various platform and respective link of Shivani's account.
 
 <Table BORDER="3" HEIGHT = "250" WIDTH ="900">
 <TR>
 <TH COLSPAN=7 BGCOLOR = "navy"> <H2> <FONT COLOR="GREY">CONNECT WITH <FONT COLOR="RED">'Shivani'</FONT> ON VARIOUS PLATFORM</FONT></H2></th>
 </TR>
 
-<TR BGCOLOR = "YELLOW"> <FONT COLOR="YELLOW">
-<TH> <FONT COLOR="GREEN"><h5>YOUTUBE</h5></FONT></TH> <TH> <FONT COLOR="GREEN">JOSH APP
-<TH> <FONT COLOR="GREEN">FACEBOOK <TH><FONT COLOR="GREEN">INSTAGRAM <TH><FONT COLOR="GREEN">
-TWITTER<TH><FONT COLOR="GREEN">SNAPCHAT</FONT>
+<TR BGCOLOR = "YELLOW"> 
+<TH BGCOLOR = "YELLOW"> <FONT COLOR="GREEN"><h5>YOUTUBE</h5></FONT></TH> <TH BGCOLOR = "YELLOW"> <FONT COLOR="GREEN">JOSH APP
+<TH BGCOLOR = "YELLOW"> <FONT COLOR="GREEN">FACEBOOK <TH BGCOLOR = "YELLOW"> <FONT COLOR="GREEN">INSTAGRAM <TH BGCOLOR = "YELLOW"> <FONT COLOR="GREEN">
+TWITTER<TH BGCOLOR = "YELLOW"> <FONT COLOR="GREEN">SNAPCHAT</FONT>
 
 <TR>
 <TD BGCOLOR = "ORANGE"><A HREF = "https://www.youtube.com/channel/UCG51GH13DEIeTtOsNwYlJdw/videos"> SHIVANI'S YOUTUBE</A></TD>
@@ -44,5 +41,7 @@ TWITTER<TH><FONT COLOR="GREEN">SNAPCHAT</FONT>
 <TD BGCOLOR = "ORANGE"><A HREF = "https://www.snapchat.com/add/shivani_cha2152?share_id=uBVLBae9e8M&locale=en-GB">SHIVANI ON SNAP</A></TD>
 </TR>
 
+<FONT COLOR="black"><H5>Developer: Rohit Chavan
+<A HREF=" https://rohit-tech7.github.io/rohitinsocial/">Click here to connect</A>
 
 
